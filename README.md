@@ -1,6 +1,14 @@
 # diversity-handbook
 Add ideas and strategies for making your workplace and teams more diverse
 
+## Privacy / Safety
+
+Please remember that you're submitting content that will be tied to your public Github username. If you're concerned or feel unsafe saying something, please don't feel that you have to. If you'd like to submit anonymously, feel free to contact me on Twitter (@DanRoeSparks) or via email (dan@roesparks.com) - you could also create a new, free, throwaway account or ask someone you trust.
+
+Secondly, please consider if you're submitting information that might identify someone else. If you are, it's best in every case to get their permission, and to take into account any feedback they might have for you. 
+
+Thanks folks, stay safe <3
+
 ## What's This?
 
 In conjunction with Hacktoberfest (https://hacktoberfest.digitalocean.com/) I'm looking to find ways people have successfully made their workplaces and teams more diverse, built an environment that fosters inclusivity, and other Generally Good Things. Ideally this will be focusing on the positive, but there's a place for anti-patterns too.  
