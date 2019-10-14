@@ -23,6 +23,21 @@ This is starting off very unformed; I'm interested to see how it goes. For now, 
 /experiences/bad : This is where the negative things you've experienced should live
 /ideas : Put ideas here that you've not seen implemented, or at least not on a wide scale, that you think might help
 
+## Formatting
+
+I'm not going to be precious about formatting - do what you're most comfortable with for now, at least. If you're here because of Hacktoberfest, then maybe check out how to use Markdown - that's the format this readme uses. See https://guides.github.com/features/mastering-markdown/ for pointers. 
+
+## Naming
+
+Again, name the files whatever makes sense to you - hopefully some kind of consensus will be reached at some point (yeah, I know that's _wildly_ optimistic) - I just don't have a good reason for naming anything a particular way for now, so eh. If I can't defend an approach, go for it :)
+
+## Contributors
+
+If you'd like to, once you've added an experience or idea, add your info to CONTRIBUTORS.md - you can add as much or as little as you'd like. Use a new line, and add zero or more of the following:
+
+Github Username | Name | Site | Social Media | Description
+
+
 ## What Next?
 
 Assuming anyone contributes, if you see some kind of structure forming, feel free to re-organise, suggest new layouts, formats, the works. Open issues, discussions, whatever feels right. 
