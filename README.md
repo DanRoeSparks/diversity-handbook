@@ -50,4 +50,6 @@ I'm Dan Sparks, I do DevOps-type stuff, and I'm especially interested in automat
 I'm bad at having my own ideas, but good at implementing other peoples'. In 2018 I gave a talk on men being less terrible to women at Velocity London, as part of the Ignite event. You can find that here: https://www.youtube.com/watch?v=vh9NSPiUaxU
 As part of that talk I launched a slack group for people to discuss diversity and inclusivity - I'm currently planning another talk about how that failed horribly, and why it doesn't really matter that much (hint: because there are better ways to address these issues that aren't in a private clubhouse).
 
+I'm in the UK, and I work full-time, so if I take a while to get to your PR, please bear with me; I promise I will eventually (or I'll find a friendly helping hand).
+
 I'm grateful for your time; thank you.
