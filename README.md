@@ -37,6 +37,7 @@ If you'd like to, once you've added an experience or idea, add your info to CONT
 
 Github Username | Name | Site | Social Media | Description
 
+Use a dash (-) or N/A if you want to skip certain pieces of info.
 
 ## What Next?
 
