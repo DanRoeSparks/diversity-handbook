@@ -35,7 +35,7 @@ Again, name the files whatever makes sense to you - hopefully some kind of conse
 
 If you'd like to, once you've added an experience or idea, add your info to CONTRIBUTORS.md - you can add as much or as little as you'd like. Use a new line, and add zero or more of the following:
 
-Github Username | Name | Site | Social Media | Description
+Github Username | Name | Pronouns | Site | Social Media | Description
 
 Use a dash (-) or N/A if you want to skip certain pieces of info.
 
