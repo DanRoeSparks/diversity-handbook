@@ -1,6 +1,6 @@
 # Misgendering
 
-The preface to this is that i am a very recently out trans woman and have had zero vocal therapy sessions so while my voice is in the androgenous vocal range (min average 140 high aerage 190) and despite having femme mannerisms I could easily be read male, both in person or over the phone and i think this is totally reasonable, i don't take it personally and correct people. 99% of the time people are fine, move on and switch to use she/her pronouns for me.
+The preface to this is that i am a very recently out trans woman and have had zero vocal therapy sessions so while my voice is in the androgenous vocal range (min average 140 high average 190) and despite having femme mannerisms I could easily be read male, both in person or over the phone and i think this is totally reasonable, i don't take it personally and correct people. 99% of the time people are fine, move on and switch to use she/her pronouns for me.
 
 That 1% of the time however, they are almost always in the tech sphere, like the recruiter I talked to recently. They were not happy for me to correct them at all.
 
